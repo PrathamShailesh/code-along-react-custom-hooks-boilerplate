@@ -31,4 +31,4 @@ const store = () => {
   );
 };
 
-export default YourComponent;
+export default store;
