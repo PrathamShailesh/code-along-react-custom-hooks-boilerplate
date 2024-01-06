@@ -1,4 +1,4 @@
-import YourComponent from './components/UseStorage'
+import store from './components/UseStorage'
 import './App.css'
 
 function App() {
