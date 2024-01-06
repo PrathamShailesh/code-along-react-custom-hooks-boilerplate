@@ -17,7 +17,7 @@ const useStorage = (key, initialValue) => {
 };
 
 
-const YourComponent = () => {
+const store = () => {
   const [inputValue, setInputValue] = useStorage('content', '');
 
   return (
